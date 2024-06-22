@@ -1,0 +1,5 @@
+uint64 goal
+---
+uint64 sum
+---
+uint64 tmp_sum
